@@ -1,0 +1,18 @@
+[
+  {
+    "type": "multiple_choice",
+    "question": "What is the capital of France?",
+    "choices": ["Berlin", "Paris", "Madrid", "Rome"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "type": "true_false",
+    "question": "The sun is a planet.",
+    "correctAnswer": false
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the capital of Japan?",
+    "acceptableAnswers": ["tokyo"]
+  }
+]
